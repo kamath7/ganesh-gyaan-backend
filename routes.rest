@@ -1,0 +1,8 @@
+POST  http://localhost:5000/api/articles/learn-node/add-comment
+
+Content-Type: application/json
+
+{
+    "username": "lalle",
+    "text": "Nice"
+}
